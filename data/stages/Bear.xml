@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.32" name="Bear" folder="" startCamPosX="941" startCamPosY="661">
+	<solid name="red" x="-113" y="-200" color="0xFF0000" width="1455" height="785" scale="1" scrollx="1" scrolly="1" updateHitbox="true"/>
+	<sprite name="Room" sprite="bgs/phase1" x="0" y="0" scale="1.8" scrollx="1" scrolly="1" updateHitbox="false"/>
+	<sprite name="Bfdead" sprite="bfdead" color="0xB1B4C5" x="180" y="319" scale="0.45" scrollx="1" scrolly="1" updateHitbox="false"/>
+
+	<girlfriend x="0" y="900" scroll="1" scale="0.4"/>
+	<dad x="-40" y="300" scale="0.4"/>
+	<boyfriend x="600" y="420" scale="0.4"/>
+</stage>

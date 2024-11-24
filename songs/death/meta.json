@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "bear",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Deathwish",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 185,
+	"name": "death"
+}
